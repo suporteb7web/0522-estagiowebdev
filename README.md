@@ -16,7 +16,7 @@ Após a finalização, o candidato deve enviar um e-mail para suporte@b7web.com.
 
 ## Questões Teóricas
 
-1. Qual a função do <head> no HTML?
+1. Qual a função do "head" no HTML?
 2. Quando uma página é criada, ela automaticamente se adapta a todos os tipos de tela? Por que?
 3. O código HTML e CSS é renderizado no servidor e repassado para o navegador em forma de imagem?
 4. Qual a função das tags H (h1, h2, h3, etc) no HTML?
